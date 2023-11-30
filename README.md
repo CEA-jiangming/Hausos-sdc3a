@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/725544679.svg)](https://zenodo.org/doi/10.5281/zenodo.10229979)
 # sdc3a-setr
 This is the repository containing codes for SKA sdc3a data challenge, our team is named Hausos, which means _The Original Dawn Goddess_, a decent name for the detection of EoR signal of the Universe.
 *For more details about the data challenge, please refer to the website (https://sdc3.skao.int/overview)*
